@@ -33,3 +33,15 @@ Variaveis JavaScrip
 ![Exemplos o tipo de dado](prints/exemplo%20de%20tipo%20de%20dado.png)
 
 
+    // window.prompt sempre retorna uma string
+        então uma necessidade de conversao de dados 
+
+ ![window.prompt(string)](prints/win%20prompt%20(string).png)   
+
+    //Conversao de dados String > Number
+    
+![String > Number](prints/string-number.png)        
+
+    //Conversao de dados Number > String
+    
+![Number > String](prints/number-string.png)
